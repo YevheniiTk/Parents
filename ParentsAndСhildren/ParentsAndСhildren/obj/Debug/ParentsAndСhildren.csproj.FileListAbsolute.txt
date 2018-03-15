@@ -1,0 +1,7 @@
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\bin\Debug\ParentsAndСhildren.exe.config
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\bin\Debug\ParentsAndСhildren.exe
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\bin\Debug\ParentsAndСhildren.pdb
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\obj\Debug\ParentsAndСhildren.csprojResolveAssemblyReference.cache
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\obj\Debug\ParentsAndСhildren.csproj.CoreCompileInputs.cache
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\obj\Debug\ParentsAndСhildren.exe
+c:\users\yevhe\source\repos\ParentsAndСhildren\ParentsAndСhildren\obj\Debug\ParentsAndСhildren.pdb
